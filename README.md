@@ -1,2 +1,2 @@
 # inu-1441.github.io
- Pos Tes
+Figma Design re-written as an html document in Visual Studio Code
